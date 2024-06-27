@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Mohan Baadiger
+BCA student...
+
 <!--
 **Mohan-Badiger/Mohan-Badiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
