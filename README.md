@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Mohan Baadiger
+I am Mohan Badiger
 BCA student...
 
 <!--
