@@ -1,5 +1,6 @@
-## Hi there 👋
-I am Mohan Badiger
+## Hi👋 I am Mohan S Badiger
+ A passionate developer from India 🇮🇳
+
 - reach me: mohanbadiger250@gmail.com
 - - 🌱 I’m currently learning BCA
 - 💬 Ask me about python 
