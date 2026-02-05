@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hi 👋 I am Mohan S Badiger<br>A Passionate Developer from India in<br><br>reach me: mohanbadiger250@gmail.com <br>I am currently learning BCA<br>
 
+👋 Hi, I'm Mohan S Badiger
+
+💻 **Aspiring Full-Stack Developer (MERN)** from India  
+🎓 Currently pursuing **BCA (Bachelor of Computer Applications)**  
+🚀 Passionate about building scalable web applications and learning modern technologies  
+
+📫 **Contact:**  
+✉️ Email: **mohanbadiger250@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohan_badiger250) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-badiger ) 
