@@ -1,6 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Mohan S Badiger 👋<br><br>💻 Full Stack Developer | MERN Stack | React / Next.js  <br>🚀 Passionate about building clean, scalable & high-performance web applications<br><br>📍 Karnataka, India  <br>📫 mohanbadiger250@gmail.com  <br><br>## 👨‍💻 About Me<br><br>Full Stack Developer with 2+ years of experience in React.js, Next.js, and modern web technologies.  <br>I enjoy building intuitive user interfaces, scalable backend systems, and real-world problem-solving applications.<br><br>- 🔭 Currently improving my Full Stack & System Design skills<br>- 🌱 Exploring advanced Next.js & backend architectures<br>- ⚡ Focused on performance, UX, and clean code<br>
-
+# Hi, I'm Mohan S Badiger 👋<br><br>💻 Full Stack Developer | MERN Stack | React / Next.js  <br>🚀 Passionate about building clean, scalable & high-performance web applications<br><br>📍 Karnataka, India  <br>📫 mohanbadiger250@gmail.com  <br><br>🔗 [Portfolio](https://mohanbadiger.site) | [LinkedIn](https://linkedin.com/in/mohan-badiger) | [GitHub](https://github.com/Mohan-Badiger)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohan_badiger250) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohan-badiger) 
@@ -19,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=Mohan-Badiger&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a Coffee Username) 
+  ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
