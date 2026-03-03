@@ -1,4 +1,4 @@
-# Mohan S Badiger 👋
+# Mohan S Badiger
 
 Full Stack Developer | MERN Stack | React / Next.js  
 Passionate about building clean, scalable & high-performance web applications  
