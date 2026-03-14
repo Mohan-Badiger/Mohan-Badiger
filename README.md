@@ -1,6 +1,6 @@
-# Mohan S Badiger
+# Mohan Sadashiv Badiger
 
-Full Stack Developer | MERN Stack | React / Next.js  
+Full Stack Developer | MERN Stack | React.js / Next.js  
 Passionate about building clean, scalable & high-performance web applications  
 
 📍 Karnataka, India  
