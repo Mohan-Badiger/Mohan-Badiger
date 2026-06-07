@@ -32,10 +32,5 @@ Passionate about building clean, scalable & high-performance web applications
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mohan-Badiger&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Mohan-Badiger&theme=default&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Badiger&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ### ☕ Support
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)
