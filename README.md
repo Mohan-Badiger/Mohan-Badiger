@@ -1,6 +1,4 @@
-i want to make my github profile readme more unique and attractable so make it 
-
-# Mohan Sadashiv Badiger
+# Hi, I'm Mohan Sadashiv Badiger
 
 Full Stack Developer | MERN Stack | React.js / Next.js  
 Passionate about building clean, scalable & high-performance web applications  
