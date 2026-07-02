@@ -1,23 +1,38 @@
-<div align="center">
+i want to make my github profile readme more unique and attractable so make it 
 
-# Mohan Badiger
+# Mohan Sadashiv Badiger
 
-### Full Stack Engineer • MERN Stack • React • Next.js
+Full Stack Developer | MERN Stack | React.js / Next.js  
+Passionate about building clean, scalable & high-performance web applications  
 
-Building modern, scalable, and high-performance web applications.
+📍 Karnataka, India  
+📧 mohanbadiger250@gmail.com  
 
-<br>
+🔗 [Portfolio](https://mohanbadiger.site) | 
+[LinkedIn](https://linkedin.com/in/mohan-badiger) | 
+[GitHub](https://github.com/Mohan-Badiger)
 
-<a href="https://mohanbadiger.site">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+---
 
-<a href="https://linkedin.com/in/mohan-badiger">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+### 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://mohanbadiger.site)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/mohanbadiger250)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohan_badiger250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-badiger)
 
-<a href="https://github.com/Mohan-Badiger">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+---
 
-</div>
+### 💻 Tech Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+
+---
+
+### ☕ Support
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)
