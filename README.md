@@ -20,17 +20,12 @@ Passionate about building clean, scalable & high-performance web applications
 
 ---
 
-### 💻 Tech Stack
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+### Tech Stack
+<p align="start">
 
----
+<img src="https://skillicons.dev/icons?i=html,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,linux,figma,vscode"/>
+
+</p>
 
 ### ☕ Support
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)
